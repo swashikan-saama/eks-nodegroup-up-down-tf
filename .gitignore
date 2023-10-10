@@ -1,6 +1,7 @@
 *.terraform*
 */.terraform/*
 *terraform.*
+.gitignore
 
 
 # Byte-compiled / optimized / DLL files
